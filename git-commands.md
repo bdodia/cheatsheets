@@ -20,7 +20,13 @@ Use <code>git push</code> to push changes to remote
 
 ## Reset a staged change
 <code>git reset some-file</code> Reset a mistake that has gone through to stage
-  
+
+## Commiting a change
+<code>git commit -m "Some helpful commit log description"</code>
+
+### To add to an exising commit
+<code>git commit --amend --no-edit</code>
+
 ## Squash branch commits
 <code>git merge --squash WIP-some-branch</code> this will squash all commits in the branch <code>WIP-some-branch</code>
 and merge plus stage them for commit in your working branch
