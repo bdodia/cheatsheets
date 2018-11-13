@@ -4,7 +4,9 @@ Use <code>git push</code> to get the command to create the branch in remote.
 
 ## Add files to stage
 <code>git add some-file</code> to update/add a specific file for commit
+
 <code>git add .</code> to update/add all files/folders in current working directory for committing
+
 <code>git add -p</code> to interactively review and update/add individual changes in all files/folders in current working directory for committing
 
 ## Remove an unstaged change
