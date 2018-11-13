@@ -3,7 +3,7 @@
 Use <code>git push</code> to get the command to create the branch in remote.
 
 ## Remove an unstagged change
-<code>git checkout -- some-file<code>
+<code>git checkout -- some-file</code>
   
 ## Squash branch commits
 <code>git merge --squash WIP-some-branch</code> this will squash all commits in the branch <code>WIP-some-branch</code>
