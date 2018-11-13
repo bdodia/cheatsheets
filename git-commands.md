@@ -1,6 +1,12 @@
 ## Create a branch
 <code>git checkout -b WIP-some-branch</code> this will create a branch named <code>WIP-some-branch</code>
-Use <code>git push</code> to get the command to create the branch in remote.
+
+To push the current branch and set the remote as upstream, use
+
+<code>git push --set-upstream origin WIP-some-branch</code>
+
+Use <code>git push</code> to push changes to remote
+
 
 ## Add files to stage
 <code>git add some-file</code> to update/add a specific file for commit
