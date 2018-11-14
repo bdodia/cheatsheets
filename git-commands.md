@@ -24,7 +24,7 @@ Use <code>git push</code> to push changes to remote
 ## Commiting a change
 <code>git commit -m "Some helpful commit log description"</code>
 
-### To add to an exising commit
+### Add changes to last commit without changing message
 <code>git commit --amend --no-edit</code>
 
 ## Squash branch commits
