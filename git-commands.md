@@ -52,4 +52,4 @@ There will most likely be merge conflicts. You should see a prompt telling you w
 
 Alternatively you can abort the cherry-pick using
 
-<code>git cherry-pick --abort<code>
+<code>git cherry-pick --abort</code>
